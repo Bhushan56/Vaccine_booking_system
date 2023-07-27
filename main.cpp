@@ -34,8 +34,8 @@ class Booking :  public Vaccine
   public : 
       void getdata(); 
       bool inputinfile2();
-      void certificate();   //Not yet ready
-      bool book() //Not yet ready
+      void certificate();  
+      bool book() 
       {
         
         getdata();
